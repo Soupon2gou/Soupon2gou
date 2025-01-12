@@ -1,6 +1,8 @@
 ## Hi there 👋
 
+<!--
 [![Soupon2gou's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soupon2gou&theme=vue-dark&show_icons=true)](https://github.com/Soupon2gou/github-readme-stats)
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soupon2gou&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/Soupon2gou/github-readme-stats)
 
 <!--

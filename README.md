@@ -15,6 +15,9 @@
 - ⚡ Fun fact: ...
 -->
 🔭 I'm currently working on Development of artificial muscles and Sound MAD production, Development of useful tools
+
 📫 How to reach me: [X(Twitter)](https://x.com/Soupon2gou) or Discord : Soupon2gou
+
 😄 Pronouns: Japanese, English
+
 ⚡ Fun fact: Movie Editing, DTM, 3DCG, Development, Game Creation, journal
